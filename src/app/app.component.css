@@ -1,0 +1,12 @@
+:host {
+  width: 100%;
+  min-height: 70vh;
+}
+
+h1 {
+  width: 50%;
+  text-align: center;
+  margin: 25px auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(255, 46, 46, 0.555);
+}
