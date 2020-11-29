@@ -1,7 +1,9 @@
 # Angular CLI less
 
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<p align="center">
+  <img src="aio/src/assets/images/logos/angular/angular.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" width="120px" height="120px"/>
+</p>
 
 Clone the repository to have a ready-to-go Angular 10 app including Wepack bundling & hot-reloading + Jest live-testing + CSS/SCSS support.
 
